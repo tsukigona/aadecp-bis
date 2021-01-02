@@ -1,0 +1,42 @@
+body {
+    background-color: wheat;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-variant: small-caps;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+
+#container {
+    width: 75%;
+    margin: auto;
+    border: 0.5mm dashed black;
+    padding: 15px;
+}
+#title {
+    text-align: center;
+    text-decoration: underline;
+}
+#table {
+    text-align: center;
+    word-spacing: 15px;
+}
+#presentation2 {
+    width: 498px;
+    border: 3px solid black;
+}
+
+.word-spacing {
+    word-spacing: 0px;
+}
+.justify {
+    text-align: justify;
+}
+.center {
+    text-align: center;
+}
+.table {
+    border: 2px solid black;
+}
