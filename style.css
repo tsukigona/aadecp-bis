@@ -19,6 +19,7 @@ a {
     position:relative ;
     top: 415px;
     z-index: 1;
+    overflow: hidden;
 }
 #title {
     color: white;
@@ -143,6 +144,7 @@ a {
 #fdc1 {
     position: relative;
     top: -200px;
+    overflow: hidden;
 }
 
 .word-spacing {
